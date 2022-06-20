@@ -1,0 +1,35 @@
+Y:\שנת פב\3\כהן יוכבד\project_\DAL\bin\Debug\DAL.dll.config
+Y:\שנת פב\3\כהן יוכבד\project_\DAL\bin\Debug\DAL.dll
+Y:\שנת פב\3\כהן יוכבד\project_\DAL\bin\Debug\DAL.pdb
+Y:\שנת פב\3\כהן יוכבד\project_\DAL\bin\Debug\Entities.dll
+Y:\שנת פב\3\כהן יוכבד\project_\DAL\bin\Debug\EntityFramework.dll
+Y:\שנת פב\3\כהן יוכבד\project_\DAL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\שנת פב\3\כהן יוכבד\project_\DAL\bin\Debug\Entities.pdb
+Y:\שנת פב\3\כהן יוכבד\project_\DAL\bin\Debug\Entities.dll.config
+Y:\שנת פב\3\כהן יוכבד\project_\DAL\bin\Debug\EntityFramework.xml
+Y:\שנת פב\3\כהן יוכבד\project_\DAL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\שנת פב\3\כהן יוכבד\project_\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Y:\שנת פב\3\כהן יוכבד\project_\DAL\obj\Debug\DAL.csproj.CopyComplete
+Y:\שנת פב\3\כהן יוכבד\project_\DAL\obj\Debug\DAL.dll
+Y:\שנת פב\3\כהן יוכבד\project_\DAL\obj\Debug\DAL.pdb
+F:\פרויקט סיום\project_\DAL\bin\Debug\DAL.dll.config
+F:\פרויקט סיום\project_\DAL\bin\Debug\DAL.dll
+F:\פרויקט סיום\project_\DAL\bin\Debug\DAL.pdb
+F:\פרויקט סיום\project_\DAL\bin\Debug\Entities.dll
+F:\פרויקט סיום\project_\DAL\bin\Debug\EntityFramework.dll
+F:\פרויקט סיום\project_\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\פרויקט סיום\project_\DAL\bin\Debug\Entities.pdb
+F:\פרויקט סיום\project_\DAL\bin\Debug\Entities.dll.config
+F:\פרויקט סיום\project_\DAL\bin\Debug\EntityFramework.xml
+F:\פרויקט סיום\project_\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\פרויקט סיום\project_\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\פרויקט סיום\project_\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\פרויקט סיום\project_\DAL\obj\Debug\DAL.dll
+F:\פרויקט סיום\project_\DAL\obj\Debug\DAL.pdb
+F:\פרויקט סיום\project_\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+F:\פרויקט סיום\project_\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+F:\פרויקט סיום\project_\DAL\obj\Debug\DAL.Migrations.update.resources
+Y:\שנת פב\3\כהן יוכבד\project_\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+Y:\שנת פב\3\כהן יוכבד\project_\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+Y:\שנת פב\3\כהן יוכבד\project_\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+Y:\שנת פב\3\כהן יוכבד\project_\DAL\obj\Debug\DAL.Migrations.success.resources

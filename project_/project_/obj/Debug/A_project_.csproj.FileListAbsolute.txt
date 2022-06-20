@@ -1,0 +1,45 @@
+Y:\שנת פב\3\כהן יוכבד\project_\project_\bin\Debug\project_.exe.config
+Y:\שנת פב\3\כהן יוכבד\project_\project_\bin\Debug\project_.exe
+Y:\שנת פב\3\כהן יוכבד\project_\project_\bin\Debug\project_.pdb
+Y:\שנת פב\3\כהן יוכבד\project_\project_\bin\Debug\BL.dll
+Y:\שנת פב\3\כהן יוכבד\project_\project_\bin\Debug\Entities.dll
+Y:\שנת פב\3\כהן יוכבד\project_\project_\bin\Debug\EntityFramework.dll
+Y:\שנת פב\3\כהן יוכבד\project_\project_\bin\Debug\EntityFramework.SqlServer.dll
+Y:\שנת פב\3\כהן יוכבד\project_\project_\bin\Debug\DAL.dll
+Y:\שנת פב\3\כהן יוכבד\project_\project_\bin\Debug\BL.pdb
+Y:\שנת פב\3\כהן יוכבד\project_\project_\bin\Debug\Entities.pdb
+Y:\שנת פב\3\כהן יוכבד\project_\project_\bin\Debug\Entities.dll.config
+Y:\שנת פב\3\כהן יוכבד\project_\project_\bin\Debug\EntityFramework.xml
+Y:\שנת פב\3\כהן יוכבד\project_\project_\bin\Debug\EntityFramework.SqlServer.xml
+Y:\שנת פב\3\כהן יוכבד\project_\project_\bin\Debug\DAL.pdb
+Y:\שנת פב\3\כהן יוכבד\project_\project_\bin\Debug\DAL.dll.config
+Y:\שנת פב\3\כהן יוכבד\project_\project_\obj\Debug\project_.Form1.resources
+Y:\שנת פב\3\כהן יוכבד\project_\project_\obj\Debug\project_.Properties.Resources.resources
+Y:\שנת פב\3\כהן יוכבד\project_\project_\obj\Debug\A_project_.csproj.GenerateResource.cache
+Y:\שנת פב\3\כהן יוכבד\project_\project_\obj\Debug\A_project_.csproj.CoreCompileInputs.cache
+Y:\שנת פב\3\כהן יוכבד\project_\project_\obj\Debug\A_project_.csproj.CopyComplete
+Y:\שנת פב\3\כהן יוכבד\project_\project_\obj\Debug\project_.exe
+Y:\שנת פב\3\כהן יוכבד\project_\project_\obj\Debug\project_.pdb
+F:\פרויקט סיום\project_\project_\bin\Debug\project_.exe.config
+F:\פרויקט סיום\project_\project_\bin\Debug\project_.exe
+F:\פרויקט סיום\project_\project_\bin\Debug\project_.pdb
+F:\פרויקט סיום\project_\project_\bin\Debug\BL.dll
+F:\פרויקט סיום\project_\project_\bin\Debug\Entities.dll
+F:\פרויקט סיום\project_\project_\bin\Debug\EntityFramework.dll
+F:\פרויקט סיום\project_\project_\bin\Debug\EntityFramework.SqlServer.dll
+F:\פרויקט סיום\project_\project_\bin\Debug\DAL.dll
+F:\פרויקט סיום\project_\project_\bin\Debug\BL.pdb
+F:\פרויקט סיום\project_\project_\bin\Debug\Entities.pdb
+F:\פרויקט סיום\project_\project_\bin\Debug\Entities.dll.config
+F:\פרויקט סיום\project_\project_\bin\Debug\EntityFramework.xml
+F:\פרויקט סיום\project_\project_\bin\Debug\EntityFramework.SqlServer.xml
+F:\פרויקט סיום\project_\project_\bin\Debug\DAL.pdb
+F:\פרויקט סיום\project_\project_\bin\Debug\DAL.dll.config
+F:\פרויקט סיום\project_\project_\obj\Debug\A_project_.csprojAssemblyReference.cache
+F:\פרויקט סיום\project_\project_\obj\Debug\project_.Form1.resources
+F:\פרויקט סיום\project_\project_\obj\Debug\project_.Properties.Resources.resources
+F:\פרויקט סיום\project_\project_\obj\Debug\A_project_.csproj.GenerateResource.cache
+F:\פרויקט סיום\project_\project_\obj\Debug\A_project_.csproj.CopyComplete
+F:\פרויקט סיום\project_\project_\obj\Debug\project_.exe
+F:\פרויקט סיום\project_\project_\obj\Debug\project_.pdb
+Y:\שנת פב\3\כהן יוכבד\project_\project_\obj\Debug\A_project_.csproj.AssemblyReference.cache
